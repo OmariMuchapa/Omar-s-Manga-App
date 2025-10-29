@@ -1,13 +1,1 @@
-{
-  "name": "manga-app",
-  "version": "0.1.0",
-  "description": "Manga App — browse and read manga",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"No tests yet\" && exit 0"
-  },
-  "author": "OmariMuchapa",
-  "license": "MIT",
-  "dependencies": {}
-}
+{"name": "manga-app","version": "0.1.0","description": "Manga App — browse and read manga","main": "index.js","private": true,"scripts": {"start": "react-native start","android": "react-native run-android","ios": "react-native run-ios","test": "echo \"No tests yet\" && exit 0"},"author": "OmariMuchapa","license": "MIT","dependencies": {"react": "18.2.0","react-native": "^0.71.8"}}
